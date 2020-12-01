@@ -1,0 +1,130 @@
+.circle{
+     width: 1000px;
+    height:1000px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+    position: relative;
+    left:241.5px ;
+
+}
+.circle2{
+    content: '';
+    width:950px;
+    height: 950px;
+    background-color: #FFEF75;
+    position: absolute;
+    border-radius: 50%;
+    
+    top:25px;
+    left:25px;
+}
+.square{
+    width:130px;
+    height:200px;
+    background-color: black;
+    position:absolute;
+    border-radius:40% ;
+    left:200px;
+    top:200px;
+}
+.square2{
+      width:130px;
+      height:200px;
+      background-color: black;
+      border-radius: 40%;
+      position: absolute;
+      right:200px;
+      top:200px;
+}
+.oval{
+    position: absolute;
+    background-color:#000000 ;
+    width:400px;
+    height:400px;
+    border-radius: 50%;
+    bottom:100px;
+    left:280px;
+    
+}
+.oval2{
+  width:0;
+  height:0;
+  border-bottom: 450px solid #FFEF75 ;
+  border-left: 225px solid transparent;
+  border-right: 225px solid transparent;
+  position: absolute;
+  bottom:300px;
+  left:255px;
+}
+.jibbha{
+    width:100px;
+    height:100px;
+    background-color: #FF0000;
+    border-radius: 50%;
+    position: absolute;
+    top:600px;
+    left:-50px;
+}
+.jibbha2{
+    width:100px;
+    height:100px;
+    background-color:#FFEF75;
+    
+    position: absolute;
+    top:643px;
+    left:-50px;
+}
+.dat{
+    background-color:rgb(245, 244, 244);
+    position: absolute;
+    top:440px;
+    left:-350px;
+    height:80px;
+    width:700px;
+    border:10px solid black;
+    border-radius: 50%;
+} 
+.dat2{
+    height:85px;
+    width:180px;
+    background-color:#FFEF75;
+    position: absolute;
+    top:446px;
+    left:184px;
+    border:10px solid #FFEF75;
+    
+}
+.dat3{
+    height:85px;
+    width:190px;
+    background-color:#FFEF75;
+    position: absolute;
+    top:446px;
+    right:184px;
+    border:10px solid #FFEF75;
+}
+.dat4{
+    height:88px;
+    width:10px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+    position: absolute;
+    top:446px;
+    right:176px;
+}
+.dat5{
+    height:88px;
+    width:10px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+    position: absolute;
+    top:446px;
+    left:176px;
+}
+
+
+h6{
+    color:rgb(181, 243, 11);
+    float: inline-end;
+}
+ 
